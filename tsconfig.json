@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],// add typings for DOM, DOM.Iterable and ESNext
+    "jsx": "react-jsx",// files js and tsx
+    "moduleResolution": "node",// resolve modules to node_modules
+    "resolveJsonModule": true,// possible to use json files
+    "isolatedModules": true,//
+    "allowJs": true,//
+    "noEmit": true,// just if build is needed
+    "allowSyntheticDefaultImports": true,//
+    "esModuleInterop": true,//
+    "forceConsistentCasingInFileNames": true,//
+    "strict": true,// js strict mode , to handle errors
+    "skipLibCheck": true,//
+  },
+  "include":["src"] // where to look for our files
+}
