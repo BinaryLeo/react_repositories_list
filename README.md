@@ -6,6 +6,7 @@ Technologies and features
 
 
 - [Typescript](https://www.typescriptlang.org/)
+- [Webpack](https://webpack.js.org/)
 - [Babel](https://babeljs.io/)
 - [Yarn](https://yarnpkg.com/)
 - [VS CODE](https://code.visualstudio.com/)
